@@ -1,5 +1,5 @@
 tittle: Ada Kaptur
-#logo: 
+logo: docs/assets/headshot_photo.png
 description: Data Analyst
 #show_downloads: ["true"]
 remote_theme: pages-themes/minimal@v0.2.0
